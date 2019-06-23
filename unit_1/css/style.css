@@ -23,7 +23,7 @@ body {
 }
 
 h1{
-	font-family: Garamound;
+	font-family: Garamound , serif;
 	font-size: 30px;
 	margin-left: auto;
 	margin-right: auto;
@@ -56,7 +56,7 @@ a{
 }
 
 nav a{
-	font-family: Helvetica;
+	font-family: Helvetica, sans-serif;
 	color: #1D2833;
 	float: right;
 	font-size: 25px;
